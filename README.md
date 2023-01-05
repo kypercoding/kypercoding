@@ -1,16 +1,13 @@
-### Hi there 👋
+# :fireworks: :fireworks: Welcome! :fireworks: :fireworks:
 
-<!--
-**kypercoding/kypercoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! Glad to see you visited my profile!
 
-Here are some ideas to get you started:
+A brief overview about myself: I'm currently a student at Princeton University, graduating with a Computer Science bachelor's degree. I'm aspiring to get my foot into the software engineering industry, and I'm excited to learn about new technologies and new ways of connecting them!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to learn more about my projects, resume, and the like, check out my [personal website](https://kypercoding.github.io)!
+
+# Favorite Things
+
+:notes: :notes: These are a few of my favorite things :notes: :notes::
+* Python, Redis, PostgreSQL
+* Piano :musical_keyboard:, singing :microphone:, listening to music :headphones:
